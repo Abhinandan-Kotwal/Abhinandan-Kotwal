@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinandan-Kotwal
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Full Stack Web Development
+
 - 📫 How to reach me : abhinandankotwal27@gmail.com
 
 <!---
