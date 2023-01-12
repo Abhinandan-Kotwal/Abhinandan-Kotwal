@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Abhinandan-Kotwal
-- 👀 I’m interested in Full Stack Web Development
+- 👋 Hi, I’m Abhinandan-Kotwal
+- 👀 I’m a c++ coder and and a basic web developer.
+- I'm learning about full stack web development and i dream of becoming a full stack web developer in my coming years.
 
-- 📫 How to reach me : abhinandankotwal27@gmail.com
+- 📫 To reach me : abhinandankotwal27@gmail.com
 
 <!---
 Abhinandan-Kotwal/Abhinandan-Kotwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
